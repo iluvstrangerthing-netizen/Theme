@@ -236,7 +236,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/iluvstrangerthing-netizen/Thorfinn/refs/heads/main/IMG_7820.png",
+    "url": "https://raw.githubusercontent.com/iluvstrangerthing-netizen/Thorfinn/refs/heads/main/IMG_7820.jpeg",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
